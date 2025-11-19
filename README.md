@@ -1,1 +1,1 @@
-# pythonpractice
+Basics of python
