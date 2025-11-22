@@ -26,6 +26,9 @@ class Testing:
     # args must come before kwargs
 
 
+
+
+
 Testing.display(1, 2, 3, 4, 5)  # Passing multiple arguments
 Testing.display('a', 'b', 'c')  # Passing multiple arguments of different types
 Testing.display()  # Passing no arguments 
